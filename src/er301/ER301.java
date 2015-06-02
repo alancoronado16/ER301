@@ -2,7 +2,7 @@
 //Marcel Palacios
 //Audino Montenegro
 //Antony García González
-
+//Hola
 package er301;
 
 import gnu.io.SerialPortEvent;
